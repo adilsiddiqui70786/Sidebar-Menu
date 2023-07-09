@@ -4,8 +4,8 @@
 
 ## Project Details
 - **Objective:** Design and implement a functional sidebar menu using HTML and CSS.
+
 - **Technologies Used:**  HTML and CSS to structure and style the sidebar menu.
-- **Key Focus:** The project aimed to demonstrate my proficiency in HTML and CSS, as well as my ability to create responsive and user-friendly interfaces.
   
 <br>
 
@@ -27,7 +27,7 @@ The website can be accessed by cloning the repository and opening the index.html
 ### To view the Sidebar Menu and run it locally on your machine, follow these steps:
 
  Clone this repository to your local machine using the following command -
- git clone https://github.com/adilsiddiqui70786/Product-Landing-page.git
+ git clone https://github.com/adilsiddiqui70786/Sidebar-Menu.git
 
 <br>
 
