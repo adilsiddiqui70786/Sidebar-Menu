@@ -24,7 +24,7 @@ The website can be accessed by cloning the repository and opening the index.html
 
 ## Getting Started
 
-### To view the project code and run it locally on your machine, follow these steps:
+### To view the Sidebar Menu and run it locally on your machine, follow these steps:
 
  Clone this repository to your local machine using the following command -
  git clone https://github.com/adilsiddiqui70786/Product-Landing-page.git
