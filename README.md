@@ -13,7 +13,7 @@
 
 - **Menu Items:** The sidebar menu includes a list of menu items
 - **Submenus:** Some menu items have submenus
-- **User Friendly:**
+- **User Friendly:** User friendly 
 <br>
 
 ## Deployment
@@ -33,7 +33,7 @@ The website can be accessed by cloning the repository and opening the index.html
 
 ## Contributing
 
-I welcome any contributions, suggestions, or feedback that can help improve this project. If you find any issues or have ideas to enhance the landing page, please feel free to submit a pull request or open an issue.
+I welcome any contributions, suggestions, or feedback that can help improve this project. If you find any issues or have ideas to enhance the SideBar Menu , please feel free to submit a pull request or open an issue.
 
 <br>
 
