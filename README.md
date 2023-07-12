@@ -13,7 +13,8 @@
 
 - **Menu Items:** The sidebar menu includes a list of menu items
 - **Submenus:** Some menu items have submenus
-- **User Friendly:** User friendly 
+- **User Friendly:** User friendly
+- **Responsive Design:** The sidebar menu adapts to different screen sizes, ensuring optimal usability on desktops, tablets, and mobile devices.
 <br>
 
 ## Deployment
@@ -27,6 +28,7 @@ The website can be accessed by cloning the repository and opening the index.html
 ### To view the Sidebar Menu and run it locally on your machine, follow these steps:
 
  Clone this repository to your local machine using the following command -
+ 
  git clone https://github.com/adilsiddiqui70786/Sidebar-Menu.git
 
 <br>
